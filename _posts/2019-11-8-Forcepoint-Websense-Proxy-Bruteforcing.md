@@ -5,7 +5,7 @@ Understanding the Service
 
 Forcepoint's Websense Endpoint web proxy service installs itself, with a Root CA, and configures a proxy via Windows Administration. 
 
-![alt text](https://github.com/GarnetSunset/garnetsunset.github.io/blob/master/images/proxywindows.png "Windows Proxy Settings")
+![alt text](https://github.com/GarnetSunset/garnetsunset.github.io/blob/master/images/proxywindows.png?raw=true "Windows Proxy Settings")
 
 Of course, different companies need different configurations. This leads into our next topic.
 
@@ -22,7 +22,7 @@ A pac file is the configuration file, hosted on Forcepoint's proxy url, namely,
 
 Everything after "p=" is the ID of the pac file you're requesting. e.g `trhsv69m`, which will be relevant later.
 
-![alt text](https://github.com/GarnetSunset/garnetsunset.github.io/blob/master/images/proxyconnected.png "Forcepoint Proxy Settings")
+![alt text](https://github.com/GarnetSunset/garnetsunset.github.io/blob/master/images/proxyconnected.png?raw=true "Forcepoint Proxy Settings")
 
 ### What's in a PAC file?
 

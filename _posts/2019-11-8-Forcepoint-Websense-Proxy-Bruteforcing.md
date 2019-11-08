@@ -51,7 +51,7 @@ To break it down: Consanants only, no 0's, 1's, or 5's, characters can only cons
 
 Those are **pretty** concise parameters to easily obtain this kind of info.
 
-Cons to this technique: Completely random who you might get.
+Cons to this technique: Completely random who you might get, but, given I was able to generate and test about 11 different PAC files per second. This means given something like TOR, over a couple of days, or less, a malicious user could test all possible mutexes of this regex.
 
 I've included a script with this blogpost if you want to test this out for yourself. 
 

@@ -1,4 +1,3 @@
-# Forcepoint Websense Proxy Bruteforcing
 ## Getting recon information without ever stepping foot in the building.
 
 Understanding the Service
